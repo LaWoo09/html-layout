@@ -1,0 +1,39 @@
+body {
+    margin: 0 auto
+}
+
+.div_1 {
+    height: 14vh;
+    width: 100vw;
+    background-color: grey;
+}
+
+.div_1 > div {
+    height: 50px;
+    width: 50px;
+    background-color: rgb(31, 31, 223);
+}
+.div_2 {
+    height: 28vh;
+    width: 100vw;
+}
+.div_3 {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(73, 108, 206);
+}
+.div_4 {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(5, 172, 163);
+}
+.div_5 {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(169, 180, 16);
+}
+.div_6 {
+    height: 14vh;
+    width: 100vw;
+    background-color: rgb(212, 212, 8);
+}
